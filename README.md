@@ -18,7 +18,7 @@ NumericWordsConverter est un script Python qui permet de convertir des nombres �
 3. **Exécutez le script en spécifiant le nombre à convertir :**
 
    ```bash
-   python numeric_words_converter.py
+   python main.py
    ```
 
 4. **Obtenez le résultat en toutes lettres !**
